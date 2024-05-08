@@ -59,6 +59,14 @@ header button{
    color: #000;
 }
 
+header button a{
+    color: #000;
+    text-decoration: none;
+    
+
+}
+
 header button:hover{
     box-shadow: 1px 4px 9px#000;
+    cursor: pointer;
 }
