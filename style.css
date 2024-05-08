@@ -9,7 +9,9 @@ body{
 display: flex;
 text-align: center;
 justify-content: center;
+overflow: hidden;
 }
+
 
 .box{
 
@@ -20,7 +22,7 @@ justify-content: center;
     background-color: rgba(4, 197, 187, 0.097);
     padding-bottom: 20px;
     border-radius: 10px;
-    margin-bottom: 20px;
+    margin: 20px 0 20px;
 
 }
 
