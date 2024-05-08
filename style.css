@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+body{
+display: flex;
+text-align: center;
+justify-content: center;
+}
+
+.wall{
+    width: 70vw;
+    height: 60vh;
+    background-image: url(/bground.jpg); 
+    background-position: center;
+    background-repeat: no repeat;
+    background-size: cover;
+    box-shadow: 2px 5px 8px rgba(0, 0, 0, 0.74);
+    border-radius: 5px;
+    background-blend-mode: white;
+}
