@@ -40,7 +40,7 @@ header p{
 .wall{
     width: 60vw;
     height: 60vh;
-    background-image: url(/bground.jpg); 
+    background-image: url(bground.jpg); 
     background-position: center;
     background-repeat: no repeat;
     background-size: cover;
