@@ -17,6 +17,11 @@ justify-content: center;
     height: fit-content;
     display: flex;
     text-align: center;
+    background-color: rgba(4, 197, 187, 0.097);
+    padding-bottom: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+
 }
 
 header{
@@ -38,8 +43,9 @@ header p{
     font-size: 12px;
 }
 .wall{
-    width: 60vw;
-    height: 60vh;
+  
+width: 80vw;
+height: 250px;
     background-image: url(bground.jpg); 
     background-position: center;
     background-repeat: no repeat;
